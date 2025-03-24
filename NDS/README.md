@@ -4,7 +4,7 @@
   * [Prikazi podatkov](visdat15.pdf), različica 2015 
   * [Bibliographic networks](bibnet22.pdf), version 2022 
   * [On visualization of (social) networks](shonan.pdf), Shonan meeting, November 2015
-  * [Analysis of weighted temporal networks represented by time slices](batagelj_WT.pdf), Compstat 2023
+  * [Analysis of weighted temporal networks represented by time slices](batagelj_wt.pdf), Compstat 2023
   * [EUSN'16 workshop slides](netvis.pdf)
   * [Clustering Large Datasets and Visualizations of Large Hierarchies and Pyramids: Symbolic Data Analysis Approach](https://www.researchgate.net/publication/239579443_Clustering_Large_Datasets_and_Visualizations_of_Large_Hierarchies_and_Pyramids_Symbolic_Data_Analysis_Approach), Workshop on Symbolic Data Analysis, Lyon, 2000
   * CostNet videos:
