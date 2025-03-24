@@ -1,6 +1,6 @@
 # New developments in Statistics
 
-  * [Data visualization](visDatE24.pdf), version 2024 
+  * [Data visualization](visDatE25.pdf), version 2025 
   * [Prikazi podatkov](visdat15.pdf), različica 2015 
   * [Bibliographic networks](bibnet22.pdf), version 2022 
   * [On visualization of (social) networks](shonan.pdf), Shonan meeting, November 2015
