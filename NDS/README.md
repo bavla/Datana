@@ -1,5 +1,6 @@
 # New developments in Statistics
 
+  * [Sodobni statistični pristopi 2025/26](https://eucilnica.fdv.uni-lj.si/course/view.php?id=431)
   * [Data visualization](visDatE26.pdf), version 2026 
   * [Prikazi podatkov](visdat15.pdf), različica 2015 
   * [On visualization of (social) networks](shonan.pdf), Shonan meeting, November 2015
