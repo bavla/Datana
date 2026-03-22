@@ -1,6 +1,6 @@
 # New developments in Statistics
 
-  * [Data visualization](visDatE25.pdf), version 2025 
+  * [Data visualization](visDatE26.pdf), version 2026 
   * [Prikazi podatkov](visdat15.pdf), različica 2015 
   * [On visualization of (social) networks](shonan.pdf), Shonan meeting, November 2015
   * [Analysis of weighted temporal networks represented by time slices](batagelj_wt.pdf), Compstat 2023
